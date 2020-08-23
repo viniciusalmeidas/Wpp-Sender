@@ -7,20 +7,20 @@ I have create this piece of code on 2020 to automate the comunication process to
 
 <h1>Fair play: Game Rules</h1>
 <hr>
-A. The <b>freedom</b> to perform for any purpose.<\n>
-B. The <b>freedom</b> to study how the program works.<\n>
-C. The <b>freedom</b> to redistribute copies and benefit people.<\n>
-D. The <b>freedom</b> to perfect and release your improvements.<\n>
+A. The <b>freedom</b> to perform for any purpose.</n>
+B. The <b>freedom</b> to study how the program works.</n>
+C. The <b>freedom</b> to redistribute copies and benefit people.</n>
+D. The <b>freedom</b> to perfect and release your improvements.</n>
 
 <h1>What does it do ?</h1>
 <hr>
-1. Open Chrome, then visit web.whatsapp.com<\n>
-2. Copy, write and send the mensage on Word(.docx) to textbox via Selenium<\n>
-3. Do Loops on phones list stored on Excel(.xlsx)<\n>
+1. Open Chrome, then visit web.whatsapp.com</n>
+2. Copy, write and send the mensage on Word(.docx) to textbox via Selenium</n>
+3. Do Loops on phones list stored on Excel(.xlsx)</n>
 
 <h1>FAQ</h1>
 <hr>
-<h2>this part of this explanation has been edited from @DerexScript https://github.com/DerexScript/whatsapp-web-bot#what-is-it <\h2>
+<h2>this part of this explanation has been edited from @DerexScript https://github.com/DerexScript/whatsapp-web-bot#what-is-it </h2>
 <hr>
 Am I going to be banned from WhatsApp?
 Hum, so you already know that Whatsapp does not allow Bots, right?
