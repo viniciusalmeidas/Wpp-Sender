@@ -1,4 +1,4 @@
-<h1>What is it<\h1>
+<h1>What is it</h1>
   <hr>
   
 This code is an example of Bot for Whatsapp Web.
