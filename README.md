@@ -7,6 +7,7 @@ I have create this piece of code on 2020 to automate the comunication process to
 
 <h1>Fair play: Game Rules</h1>
 <hr>
+
 A. The <b>freedom</b> to perform for any purpose.</n>
 
 B. The <b>freedom</b> to study how the program works.</n>
@@ -65,5 +66,5 @@ Feel free to fix and PR it. I will probably not touch in this public repo anymor
 
 <hr>
 <h1>-Author: Vinícius Almeida de Souza</h1> 
-  <h2>https://www.linkedin.com/in/valmsou</h2>
+  <h3>https://www.linkedin.com/in/valmsou</h3>
   
