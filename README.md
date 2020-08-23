@@ -25,7 +25,7 @@ D. The <b>freedom</b> to perfect and release your improvements.</n>
 
 <h1>FAQ</h1>
 <hr>
-<h2>this part of this explanation has been edited from @DerexScript https://github.com/DerexScript/whatsapp-web-bot#what-is-it </h2>
+<h4>this part of this explanation has been edited from @DerexScript https://github.com/DerexScript/whatsapp-web-bot#what-is-it </h4>
 <hr>
 Am I going to be banned from WhatsApp?
 Hum, so you already know that Whatsapp does not allow Bots, right?
@@ -65,6 +65,6 @@ Your friend can't send @HELP followed of any other message really fast. This Bot
 Feel free to fix and PR it. I will probably not touch in this public repo anymore.
 
 <hr>
-<h1>-Author: Vinícius Almeida de Souza</h1> 
-  <h3>https://www.linkedin.com/in/valmsou</h3>
+<h2>-Author: Vinícius Almeida de Souza</h2> 
+  <h4>https://www.linkedin.com/in/valmsou</h4>
   
