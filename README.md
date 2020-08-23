@@ -8,9 +8,13 @@ I have create this piece of code on 2020 to automate the comunication process to
 <h1>Fair play: Game Rules</h1>
 <hr>
 A. The <b>freedom</b> to perform for any purpose.</n>
+
 B. The <b>freedom</b> to study how the program works.</n>
+
 C. The <b>freedom</b> to redistribute copies and benefit people.</n>
+
 D. The <b>freedom</b> to perfect and release your improvements.</n>
+
 
 <h1>What does it do ?</h1>
 <hr>
