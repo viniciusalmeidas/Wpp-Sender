@@ -7,18 +7,16 @@ I have create this piece of code on 2020 to automate the comunication process to
 
 <h1>Fair play: Game Rules</h1>
 <hr>
-A. The <b>freedom</b> to perform for any purpose.
-B. The <b>freedom</b> to study how the program works.
-C. The <b>freedom</b> to redistribute copies and benefit people.
-D. The <b>freedom</b> to perfect and release your improvements.
+A. The <b>freedom</b> to perform for any purpose.<\n>
+B. The <b>freedom</b> to study how the program works.<\n>
+C. The <b>freedom</b> to redistribute copies and benefit people.<\n>
+D. The <b>freedom</b> to perfect and release your improvements.<\n>
 
 <h1>What does it do ?</h1>
 <hr>
-1. Open Chrome, then visit web.whatsapp.com
-
-2. Copy, write and send the mensage on Word(.docx) to textbox via Selenium
-
-3. Do Loops on phones list stored on Excel(.xlsx)  
+1. Open Chrome, then visit web.whatsapp.com<\n>
+2. Copy, write and send the mensage on Word(.docx) to textbox via Selenium<\n>
+3. Do Loops on phones list stored on Excel(.xlsx)<\n>
 
 <h1>FAQ</h1>
 <hr>
@@ -62,6 +60,6 @@ Your friend can't send @HELP followed of any other message really fast. This Bot
 Feel free to fix and PR it. I will probably not touch in this public repo anymore.
 
 <hr>
-<h1>-Author: Vinícius Almeida de Souza<\h1> 
+<h1>-Author: Vinícius Almeida de Souza</h1> 
   <h2>https://www.linkedin.com/in/valmsou</h2>
   
