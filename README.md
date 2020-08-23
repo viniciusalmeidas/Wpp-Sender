@@ -1,26 +1,30 @@
-<h1>What is it</h1>
+<h1>What is it?</h1>
   <hr>
   
-This code is an example of Bot for Whatsapp Web.
+This code is an example of Bot for Whatsapp Web in Pyhton 3.8.2.
 
-I have create this piece of code just to know if was viable. It is just a concept, just a test.
+I have create this piece of code on 2020 to automate the comunication process to the lead students on my Trainee Engeneering Process in COLÉGIO APOGEU - Minas Gerais, Brazil. It is not just a concept, it's working fine up to date.
 
-How to use it?
-Open chrome, then visit web.whatsapp.com
+<h1>Fair play: Game Rules</h1>
+<hr>
+A. The <b>freedom</b> to perform for any purpose.
+B. The <b>freedom</b> to study how the program works.
+C. The <b>freedom</b> to redistribute copies and benefit people.
+D. The <b>freedom</b> to perfect and release your improvements.
 
-Press F12, click at console
+<h1>What does it do ?</h1>
+<hr>
+1. Open Chrome, then visit web.whatsapp.com
 
-Copy all the bot.js code and paste into console. Don't worry, you can trust me, I am a loveeeely person.
+2. Copy, write and send the mensage on Word(.docx) to textbox via Selenium
 
-Installed!
+3. Do Loops on phones list stored on Excel(.xlsx)  
 
-Now ask for your friend to send you this message: @HELP
-
-FAQ
-So it's possible to create a Bot in Whatsapp Web?
-Yes, it is.
-
-Am I going to be banned?
+<h1>FAQ</h1>
+<hr>
+<h2>this part of this explanation has been edited from @DerexScript https://github.com/DerexScript/whatsapp-web-bot#what-is-it <\h2>
+<hr>
+Am I going to be banned from WhatsApp?
 Hum, so you already know that Whatsapp does not allow Bots, right?
 
 Well, you're right: Whatsapp will ban you forever if they discovery you are running a Bot on long-term. For a small test: Don't worry, go forward.
@@ -57,5 +61,7 @@ Yes, there are.
 Your friend can't send @HELP followed of any other message really fast. This Bot only reads the last message. It's a buggy (that can be fixed)
 Feel free to fix and PR it. I will probably not touch in this public repo anymore.
 
--
-Author: Vinícius Almeida de Souza 
+<hr>
+<h1>-Author: Vinícius Almeida de Souza<\h1> 
+  <h2>https://www.linkedin.com/in/valmsou</h2>
+  
