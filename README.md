@@ -72,10 +72,9 @@ Yes, there are.
 Feel free to fix and commit it.
 
 
+
 <hr>
-<\n>
-<\n>
-<\n>
+
 ### **Author: Vinícius Almeida de Souza**
 
 Thanks for your collaboration.
