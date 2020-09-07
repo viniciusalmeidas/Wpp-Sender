@@ -43,8 +43,7 @@ I can't guarantee that you are not getting banned in a long term using this Bot.
 Yes, there are.
 Feel free to fix and commit it.
 
-<h4>Why you use WhatsApp Web via Selenium? Is there a better solution</h4>
-<hr>
+<h5>Why you use WhatsApp Web via Selenium? Is there a better solution?</h5>
 Today we have more optimize options on Python like Yowsup.
 First, yowsup is a great python library! Simply awesome.
 But their problem is: They connect to Whatsapp servers directly, without any middlware. So it is not so hard for whatsapp team to create ban-rules you if you are using yowsup.
@@ -53,13 +52,13 @@ I got banned many times in past, so I know, soon or later, you will get banned a
 
 That's why I did this code. Using whatsapp web, it is almost impossible for whatsapp team to know that you are running a Bot.
 
-<h4>But... What are the limitations?</h4>
+<h5>But... What are the limitations?</h5>
 A lot of limitations!
 As you are handling DOM direcly, you can't process hundred of messages at once. Yowsup is much better at this subject.
 You have to install Whatsapp on your phone, connect it on Wifi and keep it charging all the time. So you have to have a cellphone exclusively for this Bot. You will need a computer with chrome running as well. But that's the main objective: In order to avoid being detect as a Bot, so you have to play this boring cat-and-rat game.
  
-
 <hr>
-<h2>-Author: Vinícius Almeida de Souza</h2> 
-  <h4>https://www.linkedin.com/in/valmsou</h4>
+<h3>Author:</h3> 
+<hr>
+<h4>Vinícius Almeida de Souza:<\h4> <h4>https://www.linkedin.com/in/valmsou</h4>
   
