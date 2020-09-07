@@ -72,6 +72,16 @@ Yes, there are.
 Feel free to fix and commit it.
 
 <hr>
-<h3>Author: Vinícius Almeida de Souza - https://www.linkedin.com/in/valmsou</h3> 
-<hr>
-  
+
+### **Vinícius Almeida de Souza**
+
+Thanks for your collaboration.
+
+> _"Coming together is a beginning,
+> staying together is progress,
+> and working together is **sucess.**"_ - H. Ford
+
+- My free projects on - [GitHub](https://github.com/valmsou)
+- My profile on - [LinkedIn](https://www.linkedin.com/in/valmsou/?originalSubdomain=br)
+- My life on - [Instagram](https://www.instagram.com/v.alma_br/)
+ 
