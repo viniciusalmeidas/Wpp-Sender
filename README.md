@@ -26,7 +26,7 @@ D. The <b>freedom</b> to perfect and release your improvements.</n>
 
 3. Do Loops on phones list stored on Excel(.xlsx)</n>
 
-p.s: On Excelb - 1st Column: <b>Name</b> and 2nd Column: <b>Phone number</b> (format:  (+) followed by the country code, city code, and local phone number)    
+p.s: On Excel - 1st Column: <b>Name</b> and 2nd Column: <b>Phone number</b> (format:  (+) followed by the country code, city code, and local phone number)    
 
 <h1>FAQ</h1>
 <hr>
