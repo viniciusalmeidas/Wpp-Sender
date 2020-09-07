@@ -1,9 +1,9 @@
 <h1>What is it?</h1>
   <hr>
   
-This code is an example of Bot for Whatsapp Web in Pyhton 3.8.2.
+This code is an example of Bot for Whatsapp Web in Pyhton 3.8.2 using ChomerDriver.
 
-I have create this piece of code on 2020 to automate the comunication process to the lead students on my Trainee Engeneering Process in COLÉGIO APOGEU - Minas Gerais, Brazil. It is not just a concept, it's working fine up to date.
+I have create this piece of code on 2020 to automate the comunication process to the lead students on my Trainee Engeneering Program in Minas Gerais, Brazil. It is not just a concept, it's working fine up to date.
 
 <h1>Fair play: Game Rules</h1>
 <hr>
@@ -21,7 +21,8 @@ D. The <b>freedom</b> to perfect and release your improvements.</n>
 <hr>
 1. Open Chrome, then visit web.whatsapp.com</n>
 2. Copy, write and send the mensage on Word(.docx) to textbox via Selenium</n>
-3. Do Loops on phones list stored on Excel(.xlsx)</n>
+3. Do Loops on phones list stored on Excel(.xlsx)</n> 
+obs: Pay attention on the Excel and Word templates.   
 
 <h1>FAQ</h1>
 <hr>
@@ -32,17 +33,14 @@ Hum, so you already know that Whatsapp does not allow Bots, right?
 
 Well, you're right: Whatsapp will ban you forever if they discovery you are running a Bot on long-term. For a small test: Don't worry, go forward.
 
-I can't understand why Mark Zuckerberg still forbid Bots, he is the kind of guy who loves to copy-cat all the good things in the Web, right? Why not simply copy WeChat features? if you go to China, you will discover that you can pay all your bils using WeChat, including silly things like P2P payments or restaurants. Paper money is past.
+I can't understand why Mark Zuckerberg still forbid Bots, he is the kind of guy who loves to copy-cat all the good things in the Web, right? Why not simply copy WeChat features? if you go to China, you will discover that you can pay all your bills using WeChat, including silly things like P2P payments or restaurants. Paper money is past.
 
 Elon Musk may be right, perhaps the little Zuckberg is just being limited in this subject, lol.
 
 I can't guarantee that you are not getting banned in a long term using this Bot. I really don't think so, but I can't guarantee.
 
-Bullshit! I got banned using yowsup!
-Hold on mate, there are kids here.
 
 First, yowsup is a great python library! Simply awesome.
-
 But their problem is: They connect to Whatsapp servers directly, without any middlware. So it is not so hard for whatsapp team to create ban-rules you if you are using yowsup.
 
 I got banned many times in past, so I know, soon or later, you will get banned as well. Is just a matter of time. You can see that I am probably right just looking here, here, here and here.
