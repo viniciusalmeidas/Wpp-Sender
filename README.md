@@ -3,7 +3,7 @@
   
 This code is a bot for Whatsapp Web in Pyhton 3.8.2 using ChomeDriver.
 
-I have create this piece of code on 2020 to automate the comunication process to the lead students on my Trainee Engeneering Program in Minas Gerais, Brazil. It is not just a concept, it's working fine up to date.
+I have create this on 2020 to automate the comunication process to the lead students on my Trainee Engeneering Program in Minas Gerais, Brazil. It is not just a concept, it's working fine up to date.
 
 <h1>Fair play: Game Rules</h1>
 <hr>
