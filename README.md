@@ -60,6 +60,6 @@ Yes, there are.
 Feel free to fix and commit it.
 
 <hr>
-<h3>Author:</h3> <h3>Vinícius Almeida de Souza https://www.linkedin.com/in/valmsou</h3> 
+<h3>Author: Vinícius Almeida de Souza - https://www.linkedin.com/in/valmsou</h3> 
 <hr>
   
