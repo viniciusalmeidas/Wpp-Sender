@@ -35,16 +35,13 @@ Hum, so you already know that Whatsapp does not allow Bots, right?
 
 Well, you're right: Whatsapp will ban you forever if they discovery you are running a Bot on long-term. For a small test: Don't worry, go forward.
 
-I can't understand why Mark Zuckerberg still forbid Bots, he is the kind of guy who loves to copy-cat all the good things in the Web, right? Why not simply copy WeChat features? if you go to China, you will discover that you can pay all your bills using WeChat, including silly things like P2P payments or restaurants. Paper money is past.
-
-Elon Musk may be right, perhaps the little Zuckberg is just being limited in this subject, lol.
+I can't understand why Mark Zuckerberg still forbid Bots, he is the kind of guy who loves to copy-cat all the good things in the Web, right? Why not simply copy WeChat features? if you go to China, you will discover that you can pay all your bills using WeChat.
 
 I can't guarantee that you are not getting banned in a long term using this Bot. I really don't think so, but I can't guarantee.
 
 <h5>I think there're some bugs on your code.</h5>
 Yes, there are.
 Feel free to fix and commit it.
-
 
 <h4>Why you use WhatsApp Web via Selenium? Is there a better solution</h4>
 <hr>
