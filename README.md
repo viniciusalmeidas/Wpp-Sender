@@ -1,7 +1,7 @@
 <h1>What is it?</h1>
   <hr>
   
-This code is an example of Bot for Whatsapp Web in Pyhton 3.8.2 using ChomerDriver.
+This code is a bot for Whatsapp Web in Pyhton 3.8.2 using ChomerDriver.
 
 I have create this piece of code on 2020 to automate the comunication process to the lead students on my Trainee Engeneering Program in Minas Gerais, Brazil. It is not just a concept, it's working fine up to date.
 
