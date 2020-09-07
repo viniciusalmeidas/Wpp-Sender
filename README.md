@@ -19,6 +19,7 @@ D. The <b>freedom</b> to perfect and release your improvements.</n>
 
 <h1>What does the code do ?</h1>
 <hr>
+
 0. You will select the mensagem.txt and telefones.xlsx files on your computer.</n>
 
 <img width="304" alt="wpp-screen" src="https://user-images.githubusercontent.com/39459689/92387870-ad613b00-f0ec-11ea-8f7c-b06d17d9a3d8.png">
