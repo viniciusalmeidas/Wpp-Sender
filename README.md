@@ -71,10 +71,9 @@ You have to install Whatsapp on your phone, connect it on Wifi and keep it charg
 Yes, there are.
 Feel free to fix and commit it.
 
+
 <hr>
-
-### **Vinícius Almeida de Souza**
-
+### **Author: Vinícius Almeida de Souza**
 Thanks for your collaboration.
 
 > _"Coming together is a beginning,
