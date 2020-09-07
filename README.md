@@ -21,11 +21,11 @@ D. The <b>freedom</b> to perfect and release your improvements.</n>
 <hr>
 1. Open Chrome, then visit web.whatsapp.com</n>
 
-2. Copy, write and send the mensage on Word(.docx) to textbox via Selenium. <b>Note that the message changes according to the name of the person you are sending the mensage to<b> (to do this, you have to respect the first sentence: "Olá, FULANO")</n>
+2. Copy, write and send the mensage on Word(.docx) to textbox via Selenium. <b>Note that the message changes according to the name of the person you are sending the mensage to</b> (to do this, you have to respect the first sentence: "Olá, FULANO")</n>
 
 3. Do Loops on phones list stored on Excel(.xlsx)</n>
 
-obs: Pay attention on the Excel and Word templates. On Excel (1st Column: Name, 2nd Column: Phone number (format:  (+) followed by the country code, city code, and local phone number)    
+p.s: Pay attention on the Excel and Word templates. On Excel (1st Column: Name, 2nd Column: Phone number (format:  (+) followed by the country code, city code, and local phone number)    
 
 <h1>FAQ</h1>
 <hr>
