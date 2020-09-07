@@ -17,14 +17,20 @@ C. The <b>freedom</b> to redistribute copies and benefit people.</n>
 D. The <b>freedom</b> to perfect and release your improvements.</n>
 
 
-<h1>What does it do ?</h1>
+<h1>What does the code do ?</h1>
 <hr>
+0. You will select the mensagem.txt and telefones.xlsx files on your computer.</n>
 
-1. Open Chrome, then visit web.whatsapp.com</n>
+<img width="304" alt="wpp-screen" src="https://user-images.githubusercontent.com/39459689/92387870-ad613b00-f0ec-11ea-8f7c-b06d17d9a3d8.png">
 
-2. Copy, write and send the mensage on Word(.docx) to textbox via Selenium. <b>Note that the message changes according to the name of the person you are sending the mensage to</b> (to do this, you have to respect the first sentence: "Olá, FULANO" and Excel Columns template)</n>
+1. The Bot will open Chrome, then visit web.whatsapp.com</n>
+Here you have to read the QRCode using the cellphone that you choose.
 
-3. Do Loops on phones list stored on Excel(.xlsx)</n>
+<img width="404" alt="wpp-qr-code" src="https://user-images.githubusercontent.com/39459689/92387947-cff35400-f0ec-11ea-8141-b0cd9d0244ec.png">
+
+2. READY! the bot will copy, write and send the mensage from Word(.docx) to textbox via Selenium. <b>Note that the message changes according to the name of the person you are sending the mensage to</b> (to do this, you have to respect the first sentence: "Olá, FULANO" and Excel Columns template)</n>
+
+3. This code do loops on each phone on phone list stored on Excel(.xlsx)</n>
 
 p.s: On Excel - 1st Column: <b>Name</b> and 2nd Column: <b>Phone number</b> (format:  (+) followed by the country code, city code, and local phone number)    
 
