@@ -34,6 +34,11 @@ Here you have to read the QRCode using the cellphone that you choose.
 
 p.s: On Excel - 1st Column: <b>Name</b> and 2nd Column: <b>Phone number</b> (format:  (+) followed by the country code, city code, and local phone number)    
 
+Name | Phone
+-------|--------
+Vinicius | 55 21 987422122
+John| 55 11 982736132
+
 <h1>FAQ</h1>
 <hr>
 <h5>Am I going to be banned from WhatsApp?</h5>
