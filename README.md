@@ -1,23 +1,12 @@
-<h1>What is it?</h1>
+<h2>What is it?</h2>
   <hr>
   
 This code is a bot for Whatsapp Web in Pyhton 3.8.2 using ChomeDriver.
 
 I have create this on 2020 to automate the comunication process to the lead students on my Trainee Engeneering Program in Minas Gerais, Brazil. It is not just a concept, it's working fine up to date.
 
-<h1>Fair play: Game Rules</h1>
-<hr>
 
-A. The <b>freedom</b> to perform for any purpose.</n>
-
-B. The <b>freedom</b> to study how the program works.</n>
-
-C. The <b>freedom</b> to redistribute copies and benefit people.</n>
-
-D. The <b>freedom</b> to perfect and release your improvements.</n>
-
-
-<h1>What does the code do ?</h1>
+<h2>What does the code do ?</h2>
 <hr>
 
 0. You will select the mensagem.txt and telefones.xlsx files on your computer.</n>
@@ -40,7 +29,7 @@ Name | Phone
 Vinicius | 55 21 987422122
 John| 55 11 982736132
 
-<h1>FAQ</h1>
+<h2>FAQ</h2>
 <hr>
 <h5>Am I going to be banned from WhatsApp?</h5>
 Hum, so you already know that Whatsapp does not allow Bots, right?
@@ -70,6 +59,17 @@ You have to install Whatsapp on your phone, connect it on Wifi and keep it charg
 <h5>I think there're some bugs on your code.</h5>
 Yes, there are.
 Feel free to fix and commit it.
+
+<h2>Fair play: Game Rules</h2>
+<hr>
+
+A. The <b>freedom</b> to perform for any purpose.</n>
+
+B. The <b>freedom</b> to study how the program works.</n>
+
+C. The <b>freedom</b> to redistribute copies and benefit people.</n>
+
+D. The <b>freedom</b> to perfect and release your improvements.</n>
 
 
 
