@@ -99,10 +99,10 @@ def enviar_mensagem(driver, telephone, text):
             txt_box.send_keys(text[i])
             ActionChains(driver).key_down(Keys.SHIFT).key_down(Keys.ENTER).key_up(Keys.SHIFT).key_up(
                 Keys.ENTER).perform()
-        sleep(3)
+        sleep(5)
         btn_enviar = driver.find_element_by_xpath('//*[@id="main"]/footer/div[1]/div[3]/button')
         btn_enviar.click()
-        sleep(1)
+        sleep(2)
 
     except Exception:
         print('Erro ao enviar para o phone no: ' + str(telephone))
