@@ -138,7 +138,7 @@ def main():
             text.insert(0, header)
             enviar_mensagem(driver, telephones[i], text)
             image_path = "C:/Users/VINÍCIUS/Pictures/Banski.jpg"
-            send_image(driver, image_path)
+            #send_image(driver, image_path)
 
         except Exception:
             sleep(10)
