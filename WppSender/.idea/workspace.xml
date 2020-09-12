@@ -1,13 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="844e4204-680b-47ae-80ae-dac8ef657bf3" name="Default Changelist" comment="" />
+    <list default="true" id="844e4204-680b-47ae-80ae-dac8ef657bf3" name="Default Changelist" comment="adequação">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documenta_WppSender.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Documenta_WppSender.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mensagem.docx" beforeDir="false" afterPath="$PROJECT_DIR$/mensagem.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/~$nsagem.docx" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="VINICIUS ALMEIDA DE SOUZA &lt;v.almsou@uol.com.br&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1hCNTcinnRoNMZpk3RhniuG2rER" />
@@ -16,7 +45,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.teste">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="WppSender" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -38,8 +67,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="teste" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="WppSender" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/teste.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.teste" />
         <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
@@ -55,28 +106,56 @@
       <option name="presentableId" value="Default" />
       <updated>1599511122331</updated>
     </task>
+    <task id="LOCAL-00001" summary="adequação">
+      <created>1599919061721</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599919061721</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="s" />
+    <MESSAGE value="adequação" />
+    <option name="LAST_COMMIT_MESSAGE" value="adequação" />
   </component>
   <component name="WindowStateProjectService">
     <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1599511206002">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1599511206002" />
-    <state width="1259" height="156" key="GridCell.Tab.0.bottom" timestamp="1599513073055">
+    <state width="1259" height="156" key="GridCell.Tab.0.bottom" timestamp="1599919116681">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="1259" height="156" key="GridCell.Tab.0.bottom/0.0.1280.680/-1280.-218.1280.984@0.0.1280.680" timestamp="1599919116681" />
     <state width="1259" height="156" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1599513073055" />
-    <state width="1259" height="156" key="GridCell.Tab.0.center" timestamp="1599513073051">
+    <state width="1259" height="156" key="GridCell.Tab.0.center" timestamp="1599919116681">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="1259" height="156" key="GridCell.Tab.0.center/0.0.1280.680/-1280.-218.1280.984@0.0.1280.680" timestamp="1599919116681" />
     <state width="1259" height="156" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1599513073051" />
-    <state width="1259" height="156" key="GridCell.Tab.0.left" timestamp="1599513073051">
+    <state width="1259" height="156" key="GridCell.Tab.0.left" timestamp="1599919116681">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="1259" height="156" key="GridCell.Tab.0.left/0.0.1280.680/-1280.-218.1280.984@0.0.1280.680" timestamp="1599919116681" />
     <state width="1259" height="156" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1599513073051" />
-    <state width="1259" height="156" key="GridCell.Tab.0.right" timestamp="1599513073055">
+    <state width="1259" height="156" key="GridCell.Tab.0.right" timestamp="1599919116681">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="1259" height="156" key="GridCell.Tab.0.right/0.0.1280.680/-1280.-218.1280.984@0.0.1280.680" timestamp="1599919116681" />
     <state width="1259" height="156" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1599513073055" />
   </component>
 </project>

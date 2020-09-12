@@ -108,6 +108,13 @@ def enviar_mensagem(driver, telephone, text):
         print('Erro ao enviar para o phone no: ' + str(telephone))
 
 
+def send_image(driver, image_path):
+    driver.find_element_by_css_selector("span[data-icon='clip']").click()
+    driver.find_element_by_css_selector("input[type='file']").send_keys(image_path)
+    driver.find_element_by_xpath("//*[@id='app']/div/div/div[2]/div[2]/span/div/span/div/div/div[2]/span/div/div").click()
+    sleep(2)
+
+
 def main():
     (tel_dir, msg_dir) = tela()  # ABRE TELA
     telephones = []
@@ -129,6 +136,8 @@ def main():
             del text[0]
             text.insert(0, header)
             enviar_mensagem(driver, telephones[i], text)
+            #image_path = "C:/Users/VINÍCIUS/Pictures/Banski.jpg"
+            #send_image(driver, image_path)
 
         except Exception:
             sleep(10)
