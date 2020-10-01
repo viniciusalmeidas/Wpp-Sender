@@ -19,13 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="844e4204-680b-47ae-80ae-dac8ef657bf3" name="Default Changelist" comment="adequação">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Documenta_WppSender.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Documenta_WppSender.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mensagem.docx" beforeDir="false" afterPath="$PROJECT_DIR$/mensagem.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/~$nsagem.docx" beforeDir="false" />
-    </list>
+    <list default="true" id="844e4204-680b-47ae-80ae-dac8ef657bf3" name="Default Changelist" comment="adequação" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -126,6 +120,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="s" />
