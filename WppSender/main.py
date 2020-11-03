@@ -84,7 +84,7 @@ def get_excel(filename):
 def is_connected():
     try:
         # connect to the host
-        socket.create_connection(("www.google.com", 80))
+        socket.create_connection(("www.google.com", 50))
         return True
     except Exception:
         is_connected()
@@ -99,21 +99,21 @@ def enviar_mensagem(driver, telephone, text):
             txt_box.send_keys(text[i])
             ActionChains(driver).key_down(Keys.SHIFT).key_down(Keys.ENTER).key_up(Keys.SHIFT).key_up(
                 Keys.ENTER).perform()
-        sleep(5)
+        sleep(6)
         btn_enviar = driver.find_element_by_xpath('//*[@id="main"]/footer/div[1]/div[3]/button')
         btn_enviar.click()
-        sleep(2)
+        sleep(4)
 
     except Exception:
         print('Erro ao enviar para o phone no: ' + str(telephone))
 
 
-def send_image(driver, image_path):
-    driver.find_element_by_css_selector("span[data-icon='clip']").click()
-    driver.find_element_by_css_selector("input[type='file']").send_keys(image_path)
-    sleep(3)
-    driver.find_element_by_xpath("//*[@id='app']/div/div/div[2]/div[2]/span/div/span/div/div/div[2]/span/div/div").click()
-    sleep(2)
+#def send_image(driver, image_path):
+#    driver.find_element_by_css_selector("span[data-icon='clip']").click()
+#    driver.find_element_by_css_selector("input[type='file']").send_keys(image_path)
+#    sleep(4)
+#    driver.find_element_by_xpath("//*[@id='app']/div/div/div[2]/div[2]/span/div/span/div/div/div[2]/span/div/div").click()
+#    sleep(3)
 
 
 def main():
@@ -124,7 +124,7 @@ def main():
     vector = get_excel(tel_dir)  # 'LER TELEFONES XLSX'
 
     path = os.getcwd().replace("\\","/")+'/chromedriver.exe'
-    driver = webdriver.Chrome(executable_path= path)
+    driver = webdriver.Chrome(executable_path=path)
     driver.get("http://web.whatsapp.com")
     sleep(10)
 
@@ -137,7 +137,6 @@ def main():
             del text[0]
             text.insert(0, header)
             enviar_mensagem(driver, telephones[i], text)
-            image_path = "C:/Users/VINÍCIUS/Pictures/Banski.jpg"
             #send_image(driver, image_path)
 
         except Exception:
