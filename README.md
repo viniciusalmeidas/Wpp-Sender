@@ -34,9 +34,7 @@ John| 55 11 982736132
 <h5>Am I going to be banned from WhatsApp?</h5>
 Hum, so you already know that Whatsapp does not allow Bots, right?
 
-Well, you're right: Whatsapp will ban you forever if they discovery you are running a Bot on long-term. For a small test: Don't worry, go forward.
-
-I can't understand why Mark Zuckerberg still forbid Bots, he is the kind of guy who loves to copy-cat all the good things in the Web, right? Why not simply copy WeChat features? if you go to China, you will discover that you can pay all your bills using WeChat.
+Well, you're right: Whatsapp will ban you forever if they discovery you are running a Bot on long-term. For a small test: Don't worry, go forward. I can't understand why Mark Zuckerberg still forbid Bots, he is the kind of guy who loves to copy-cat all the good things in the Web.
 
 I can't guarantee that you are not getting banned in a long term using this Bot. I really don't think so, but I can't guarantee.
 
