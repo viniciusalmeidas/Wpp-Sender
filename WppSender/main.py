@@ -2,6 +2,7 @@ from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.common.keys import Keys
 from selenium import webdriver
 from time import sleep
+from sys import exit
 import PySimpleGUI as sg
 import openpyxl
 import os 
