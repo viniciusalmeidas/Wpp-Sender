@@ -93,19 +93,19 @@ def is_connected():
 
 def enviar_mensagem(driver, telephone, text):
     driver.get('https://web.whatsapp.com/send?phone={}'.format(telephone))
-    sleep(6)
+    sleep(13)
     try:
         txt_box = driver.find_element_by_xpath('//*[@id="main"]/footer/div[1]/div[2]/div/div[2]')
         for i in range(0, len(text)):
             txt_box.send_keys(text[i])
             ActionChains(driver).key_down(Keys.SHIFT).key_down(Keys.ENTER).key_up(Keys.SHIFT).key_up(
                 Keys.ENTER).perform()
-        sleep(6)
+        sleep(5)
         btn_enviar = driver.find_element_by_xpath('//*[@id="main"]/footer/div[1]/div[3]/button')
         btn_enviar.click()
-        sleep(4)
+        sleep(2)
 
-    except Exception:
+      except Exception:
         print('Erro ao enviar para o phone no: ' + str(telephone))
 
 
@@ -127,7 +127,7 @@ def main():
     path = os.getcwd().replace("\\","/")+'/chromedriver.exe'
     driver = webdriver.Chrome(executable_path=path)
     driver.get("http://web.whatsapp.com")
-    sleep(10)
+    sleep(13)
 
     for i in range(0, len(vector)):
         telephones.append(vector[i][1])
@@ -141,7 +141,7 @@ def main():
             #send_image(driver, image_path)
 
         except Exception:
-            sleep(10)
+            sleep(6)
             is_connected()
 
 
