@@ -105,7 +105,7 @@ def enviar_mensagem(driver, telephone, text):
         btn_enviar.click()
         sleep(2)
 
-      except Exception:
+    except Exception:
         print('Erro ao enviar para o phone no: ' + str(telephone))
 
 
