@@ -21,7 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="844e4204-680b-47ae-80ae-dac8ef657bf3" name="Default Changelist" comment="adequação">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../chromedriver.exe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,9 +139,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="351" y="0" key="#teste/0.0.1280.680@0.0.1280.680" timestamp="1614081094948" />
-    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1614081130137">
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1618604166132">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680/-1366.-130.1366.728@0.0.1280.680" timestamp="1618604166132" />
     <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1614081130137" />
   </component>
 </project>
